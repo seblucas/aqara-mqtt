@@ -1,4 +1,4 @@
-FROM seblucas/alpine-python3:3.6.1
+FROM seblucas/alpine-python3:latest
 
 ENV LIBRARY_PATH=/lib:/usr/lib
 
